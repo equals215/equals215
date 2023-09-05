@@ -2,11 +2,11 @@
 <h3 align="center">degen DevSecOps enjoyer</h3>
 <h3 align="center">based OSINT appreciateur</h3>
 
-- 🔭 I’m currently working on [Lighthouse](https://lighthouse.world)
+- 🔭 I’m currently working at [Neotrust](https://neotrust.io) building something big 👀
 
-- 💬 Ask me about **IAC, CI/CD, Cloud, GitOps, Platform engineering, SRE**
+- 💬 Ask me about **IAC, CI/CD, Cloud, GitOps, Platform engineering, SRE and Cybersecurity**
 
-- 📫 How to reach me ? *Use some OSINT techniques for pivoting ;)*
+- 📫 How to reach me ? *Use some OSINT techniques for pivoting, you sure will find an email ;)*
 
 - 📄 Know about my experiences [on Linkedin](https://www.linkedin.com/in/thomas-f-devops/details/experience/?locale=en_US)
 

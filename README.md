@@ -33,7 +33,7 @@
 </td><td valign="top" width="50%">
 
 <div align="right">
-<img src="https://media1.tenor.com/m/1I3KJAfgBN4AAAAC/subida.gif" align="right" height="150" width="" />
+<img src="https://media1.tenor.com/m/1I3KJAfgBN4AAAAC/subida.gif" align="right" height="" width="" />
 </div>  
 
 
@@ -98,8 +98,3 @@
 
 <br/>  
 
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

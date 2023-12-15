@@ -21,7 +21,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🏭 I’m currently working at [Neotrust](https://neotrust.io) building cool things!  
+- 🏭 I’m currently working at [Neotrust](https://www.canada.neotrust.io) building cool things!  
   
 
 - 💬 Ask me about Cloud, DevSecOps, Platform engineering and Cybersecurity  

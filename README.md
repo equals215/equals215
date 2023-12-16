@@ -1,4 +1,4 @@
-## Hi 👋, I'm Thomas  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:000000&height=300&section=header&text=equals215&fontColor=436770&fontSize=90&animation=fadeIn&fontAlignY=38&desc=DevSecOps%20practicioner&descAlignY=51&descAlign=62)
   
 
 <a href="https://github.com/equals215" target="_blank">

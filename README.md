@@ -22,6 +22,9 @@
 <table><tr><td valign="top" width="50%">
 
 - 🏭 I’m currently working at [Neotrust](https://www.canada.neotrust.io) building cool things!  
+
+
+- 🔔 Check out my latest project: [DeepSentinel](https://github.com/equals215/deepsentinel)
   
 
 - 💬 Ask me about Cloud, DevSecOps, Platform engineering and Cybersecurity  

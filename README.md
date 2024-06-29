@@ -21,7 +21,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🏭 I’m currently working at [Neotrust](https://www.canada.neotrust.io) building cool things!  
+- 🏭 I’m currently self-employed at [Privasea](https://privasea.fr) building cool things for my clients!  
 
 
 - 🔔 Check out my latest project: [DeepSentinel](https://github.com/equals215/deepsentinel)

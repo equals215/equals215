@@ -21,16 +21,13 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🏭 I’m currently self-employed at [Privasea](https://privasea.fr) building cool things for my clients!  
-
-
-- 🔔 Check out my latest project: [DeepSentinel](https://github.com/equals215/deepsentinel)
+- 🏭 I’m currently employed at [Mistral AI](https://mistral.ai/) as a Software Engineer.  
   
 
-- 💬 Ask me about Cloud, DevSecOps, Platform engineering and Cybersecurity  
+- 💬 Ask me about Golang, TCP&HTTP, distributed systems and web crawling.  
   
 
-- 📫 How to reach me ? Through LinkedIn or using mail address you may find in my codebase  
+- 📫 How to reach me ? Through LinkedIn or using mail address you may find in my codebase.  
 
 
 </td><td valign="top" width="50%">
